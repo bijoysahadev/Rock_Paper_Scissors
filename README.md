@@ -2,7 +2,7 @@
 
 A sleek, responsive, and interactive Rock-Paper-Scissors game built using core front-end web development technologies. This project features dynamic computer-choice generation, real-time score processing, and conditional DOM styling using JavaScript.
 
-![Rock Paper Scissors Game Preview](https://raw.githubusercontent.com/BijoySahaTonmoy/Rock_Paper_Scissors/main/preview.png)
+
 
 ## 🚀 Live Demo
 Experience the live application here:  
